@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/elearning-main/static/css/main.093e10e5.css",
-    "main.js": "/elearning-main/static/js/main.35b18c21.js",
+    "main.js": "/elearning-main/static/js/main.bf48d0cb.js",
     "static/js/453.d855a71b.chunk.js": "/elearning-main/static/js/453.d855a71b.chunk.js",
     "static/media/modal_image.svg": "/elearning-main/static/media/modal_image.a0c79889ac1a2130893c7ad30b61bf3e.svg",
     "static/media/temp.png": "/elearning-main/static/media/temp.e639ab6e93e27040f686.png",
@@ -37,11 +37,11 @@
     "static/media/search_icon.svg": "/elearning-main/static/media/search_icon.cdb354b87245083cd2aea55ff98cf578.svg",
     "static/media/arrow-left.svg": "/elearning-main/static/media/arrow-left.c710926f5082ae40e3378ffd492e959d.svg",
     "main.093e10e5.css.map": "/elearning-main/static/css/main.093e10e5.css.map",
-    "main.35b18c21.js.map": "/elearning-main/static/js/main.35b18c21.js.map",
+    "main.bf48d0cb.js.map": "/elearning-main/static/js/main.bf48d0cb.js.map",
     "453.d855a71b.chunk.js.map": "/elearning-main/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.093e10e5.css",
-    "static/js/main.35b18c21.js"
+    "static/js/main.bf48d0cb.js"
   ]
 }
